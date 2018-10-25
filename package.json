@@ -2,12 +2,20 @@
   "name": "ironhacker",
   "version": "1.0.0",
   "description": "Random IronHacker selector with cowsay",
-  "main": "src/index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "start": "node src/index.js"
   },
-  "author": "Carlos del Prado Mota",
-  "license": "ISC",
+  "bin": {
+    "ironhacker": "./bin/ironhacker.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashleygwilliams/my_package.git"
+  },
+  "author": "Julio García & Carlos del Prado",
+  "license": "Apache-2.0",
   "dependencies": {
     "cowsay": "^1.3.1",
     "readline-sync": "^1.4.9"
