@@ -1,12 +1,12 @@
 {
   "name": "ironhacker",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Random IronHacker selector with cowsay",
+  "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
   },
-  "author": "",
+  "author": "Carlos del Prado Mota",
   "license": "ISC",
   "dependencies": {
     "cowsay": "^1.3.1",
