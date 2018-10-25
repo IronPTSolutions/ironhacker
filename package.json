@@ -1,6 +1,6 @@
 {
   "name": "ironhacker",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "Random IronHacker selector with cowsay",
   "main": "./lib/index.js",
   "scripts": {
