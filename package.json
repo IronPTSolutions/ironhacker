@@ -1,0 +1,15 @@
+{
+  "name": "ironhacker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.3.1",
+    "readline-sync": "^1.4.9"
+  }
+}
