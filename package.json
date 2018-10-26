@@ -1,6 +1,6 @@
 {
   "name": "ironhacker",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Random IronHacker selector with cowsay",
   "main": "./lib/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ashleygwilliams/my_package.git"
+    "url": "https://github.com/IronPTSolutions/ironhacker.git"
   },
   "author": "Julio García & Carlos del Prado",
   "license": "Apache-2.0",
